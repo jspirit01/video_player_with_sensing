@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+data/
+video/
+libs/
+.vscode
+parts/PyGaze-master/
+requirement_temp.txt
+requirements.txt

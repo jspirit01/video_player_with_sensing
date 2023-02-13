@@ -1,0 +1,11 @@
+pygame
+pyaudio
+pandas
+pylsl
+opencv-python
+ffmpeg-python
+numpy
+pyglet
+PyQt5
+pyempatica
+tobii_research

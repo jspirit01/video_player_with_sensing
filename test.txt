@@ -1,0 +1,3 @@
+test	time
+welcome	190.7109375
+EyeTracker	6128.347900390625
